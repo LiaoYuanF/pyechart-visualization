@@ -26,9 +26,6 @@ with open(r'data.csv', 'r') as f:
     result = list(reader1)
 
 
-# In[230]:
-
-
 day_list = [i[0] for i in result]
 total_list= [float(i[1]) for i in result]
 frequency_list = [float(i[2]) for i in result]
