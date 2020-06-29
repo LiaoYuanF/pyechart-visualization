@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "hadoop-可视化部分", "hadoop-可视化部分.pyproj", "{7E4B53A6-F442-4F6A-B6E6-4D5CCD056150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E4B53A6-F442-4F6A-B6E6-4D5CCD056150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4B53A6-F442-4F6A-B6E6-4D5CCD056150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC21C5BD-8448-4C3E-82D9-AB600D6F9B58}
+	EndGlobalSection
+EndGlobal
