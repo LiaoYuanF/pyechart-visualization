@@ -95,10 +95,6 @@ def line_2() -> Line:
     )
     return c
 
-
-# In[233]:
-
-
 def liquid_0():
     l1 = (
         Liquid()
